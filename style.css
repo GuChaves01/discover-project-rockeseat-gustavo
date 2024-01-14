@@ -4,6 +4,7 @@ body{
     background-position: top center;
     background-size: cover;
     color: var(--text-color);
+    height: 100vh;
 }
 * {
     font-family: 'Inter', sans-serif;
